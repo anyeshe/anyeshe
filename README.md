@@ -2,7 +2,7 @@
 
 ### Hi there I'm anyeshe :
 
-[![anyeshe@pm.me](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:anyeshe@pm.me)
+[![anyeshe@pm.me](https://img.shields.io/static/v1?label=anyeshe@pm.me&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:anyeshe@pm.me)
   
   
 👨‍💻 28 Years old Developer  
